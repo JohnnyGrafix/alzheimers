@@ -1,0 +1,93 @@
+title: Alzheimer’s disease 
+subhead: Accounts for some two thirds of dementia cases
+
+[tabs]
+image: Alzheimers_1.svg
+props.name: Brain
+props.title: The healthy brain
+props.caption: Made up of about 100 billion cells called neurons
+props.description: Neurons connect to each other at synapses where neurotransmitters pass signals between cells
+props.description2: The transfer of electrical and chemical impulses form our memories, thoughts and feelings
+props.color: #3155A6
+
+image: Alzheimers_2.svg
+props.name: disrupt
+props.title: Alzheimer's brain
+props.caption: The disease disrupts the electrical signals and the activity of neurotransmitters
+props.description: The cortex shrivels up and fluid spaces grow
+props.description2:
+props.color: #3155A6
+
+
+image: Alzheimers_3.svg
+props.name: Plaques
+props.title: Plaques and tangles
+props.caption: Naturally-occurring beta-amyloids clump together and form into abnormal plaques 
+props.description2: Twisted strands of protein called tangles appear
+props.description3: The exact role of plaques and tangles in the disease is still a matter of study
+props.color: #3155A6
+
+image: Alzheimers_4.svg
+props.name: Early
+props.title: Early stage
+props.caption: Mild effects on learning and memory, changes may begin 20 years or more before diagnosis
+props.description:
+props.color: #942C61
+
+image: Alzheimers_5.svg
+props.name: Middle
+props.title: Middle stage
+props.caption: Moderate impairment of memory, thinking
+and planning, can last 2 - 10 years
+props.description2:
+props.color: #942C61
+
+image: Alzheimers_6.svg
+props.name: Late
+props.title: Late stage
+props.caption: Severe impairment of speaking and understanding, may not recognise family and friends, can last 1- 5 years
+props.description: 
+props.description2:
+props.color: #942C61
+
+image: Alzheimers_7.svg
+props.name: 2015
+props.title: Living with dementia
+props.caption: 
+props.description: 
+props.description2:
+props.label: Americas: 9.4 mln
+props.label2: Africa: 4.0 mln
+props.label3: Europe: 10.5 mln
+props.label4: Asia: 22.9 mln
+props.color: #407A9F
+
+image: Alzheimers_8.svg
+props.name: 2030
+props.title: Projection 2030
+props.caption: 
+props.description2:
+props.label: Americas: 15.8 mln
+props.label2: Africa: 7.0 mln
+props.label3: Europe: 13.4 mln
+props.label4: Asia: 38.5 mln
+props.color: #407A9F
+
+image: Alzheimers_9.svg
+props.name: 2050
+props.title: Projection 2050
+props.caption: 
+props.description2:
+props.label: Americas: 29.9 mln
+props.label2: Africa: 15.8 mln
+props.label3: Europe: 18.6 mln
+props.label4: Asia: 67.2 mln
+props.color: #407A9F
+
+[]
+
+sources: Source: ATP
+
+lastUpdate.key: Last update:
+lastUpdate.value: 01/09/2018 22:00:00 (HK)
+lang: en
